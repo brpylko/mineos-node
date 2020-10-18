@@ -22,9 +22,9 @@
   },
   "dependencies": {
     "adm-zip": "^0.4.11",
-    "angular": "1.5.x",
+    "angular": "^1.8.1",
     "angular-moment": "1.0.x",
-    "angular-sanitize": "1.5.x",
+    "angular-sanitize": "1.8.1",
     "angular-translate": "^2.18.2",
     "apache-crypt": "1.1.x",
     "async": "1.5.x",
@@ -71,7 +71,7 @@
     "tmp": "0.0.33",
     "unzip": "0.1.x",
     "urllib": "^2.34.1",
-    "userid": "^0.3.1",
+    "userid": "^1.0.0-beta.6",
     "uuid": "3.0.x",
     "which": "1.2.x",
     "whoami": "0.0.x",
@@ -79,6 +79,7 @@
     "xml2js": "^0.4.19"
   },
   "devDependencies": {
+    "eslint": "^7.11.0",
     "nodeunit": "^0.11.3"
   }
 }
